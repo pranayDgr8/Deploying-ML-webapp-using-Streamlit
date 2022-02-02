@@ -1,5 +1,5 @@
 # Deploying-ML-webapp-using-Streamlit
-Machine Learning web-app to predict diabetes by analysing users age,bmi,glusoce etc report
+Machine Learning web-app to predict diabetes by analysing user's age,bmi,glusoce etc report
 
 
 
